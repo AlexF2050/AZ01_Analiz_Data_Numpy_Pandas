@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58ee0d34-3ba9-434a-8260-bb0a3bc2a262" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_Series_Massiv_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_DataFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_DataSetFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Redactor_DataSetFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_NaN_DataSetFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_SAVE_DataSetFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ_1_AZ01_DataFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ_2_AZ01_Salary_City.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Date_Fruit_Datasets.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World-happiness-report-2024.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date_Fruit_Datasets.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_1_AZ01_DataFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_1_AZ01_DataFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date_Fruit_Datasets.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

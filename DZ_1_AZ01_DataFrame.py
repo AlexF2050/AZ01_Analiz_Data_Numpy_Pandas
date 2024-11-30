@@ -5,14 +5,14 @@
 import pandas as pd
 
 # Загрузите набор данных из CSV-файла в DataFrame
-df = pd.read_csv('Date_Fruit_Datasets.xlsx')
-
+df = pd.read_csv('sonar_data.csv', on_bad_lines='skip')
+print('___________________________первые 5 строк данных:')
 # Выведите первые 5 строк данных
 print(df.head())
-
+print('___________________________информация о данных:')
 # Выведите информацию о данных
 print(df.info())
-
+print('___________________________статистическое описание данных:')
 # Выведите статистическое описание данных
 print(df.describe())
 
